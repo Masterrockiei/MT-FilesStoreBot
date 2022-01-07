@@ -8,7 +8,7 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/MoTechYT/MT-FilesStoreBot",
+    "repository": "https://github.com/Masterrockiei/MT-FilesStoreBot",
     "website": "https://github.com/MRK-YT",
     "success_url": "https://telegram.dog/Mo_Tech_YT",
     "env": {
