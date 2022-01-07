@@ -22,7 +22,7 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [𝐇𝐚𝐫𝐮𝐤𝐚](https://t.me/{BOT_USERNAME})
 
 📝 **Language:** [Python3](https://www.python.org)
 
@@ -30,28 +30,30 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** [Amal Nath](https://t.me/Unni0240)
 
-👨‍💻 **Editing:** @Mrk_YT
+ **Movie Group:** @cinima_lokham
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+ **Helper bot:** [Helper bot](https://t.me/amal_nath_05)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Helper bot:** [Helper bot](https://t.me/amal_nath_05)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Movie Channel:** [channel](https://t.me/+3NC6XL1s-pc4MjRl)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** [Amal Nath](https://t.me/Unni0240)
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://github.com/Masterrockiei)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @cinima_lokham
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Helper bot:** [Helper bot](https://t.me/amal_nath_05)
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+ **
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+🗣️ **Helper bot:** [Helper bot](https://t.me/amal_nath_05)
+
+📢 **Movie Channel:** [channel](https://t.me/+3NC6XL1s-pc4MjRl)
 
 Donate Now (coming soon)
 """
