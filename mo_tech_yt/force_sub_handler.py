@@ -12,7 +12,7 @@ async def handle_force_sub(bot, cmd):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="**Sorry Sir😔**, **You are Banned to use me. Contact my** [Support Group](https://t.me/Mo_Tech_Group).",
+                text="**Sorry Sir😔**, **You are Banned to use me. Contact my** [Helper](https://t.me/Unni0240).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -27,7 +27,7 @@ async def handle_force_sub(bot, cmd):
                         InlineKeyboardButton("🔊 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🔊", url=invite_link.invite_link)
                     ],
                     [
-                        InlineKeyboardButton("🎉 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞𝐫𝐬 𝐘𝐓 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎉", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                        InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞 𝐆𝐫𝐨𝐮𝐩", url="https://t.me/cinima_lokham")
                     ],
                     [
                         InlineKeyboardButton("🔄 𝐑𝐞𝐟𝐫𝐞𝐬𝐡 🔄", callback_data="refreshmeh")
@@ -40,7 +40,7 @@ async def handle_force_sub(bot, cmd):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Something went Wrong. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
+            text="Something went Wrong. Contact my [Helper](https://t.me/Unni0240).",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
